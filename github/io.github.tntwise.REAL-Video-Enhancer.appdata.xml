@@ -7,6 +7,11 @@
  <summary>Free and Open Source Video Enhancement Tool</summary>
  <metadata_license>CC0-1.0</metadata_license>
  <project_license>MIT</project_license>
+ <keywords>
+    <keyword>AI</keyword>
+    <keyword>upscale</keyword>
+    <keyword>enchance</keyword>
+ </keywords>
  <description>
   <p>
             A simple video enhancer for Linux.
